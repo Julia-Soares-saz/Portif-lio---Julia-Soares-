@@ -1,18 +1,22 @@
+# Projetos Power BI e Automação
 
+Bem-vindo(a) ao meu repositório! Este espaço reúne projetos que desenvolvi, destacando minhas habilidades em **análise de dados** e **automação** de processos, com foco em soluções inovadoras e tecnológicas.
 
-# Meus Projetos  
+## 📝 Conteúdo do Repositório
 
-Este repositório reúne informações sobre mim e alguns projetos que desenvolvi, destacando minhas habilidades em análise de dados e automação.  
+- **Currículo**: Uma visão detalhada da minha trajetória profissional e acadêmica.
+- **Projetos**:
+  - **Power BI**: Dashboard interativo para análise de dados estratégicos.
+  - **Automação**: Scripts para otimizar tarefas como envio de e-mails, organização de arquivos e manipulação de PDFs.
 
-## 📂 O que você encontra aqui:  
-- **Meu Currículo**: Para conhecer minha trajetória e competências.  
-- **Projetos**:  
-  - **Power BI**: Um projeto que utiliza dashboards interativos para análise de dados.  
-  - **Automação**: Um projeto voltado para otimização de tarefas rotineiras.  
+## 🚀 Tecnologias Utilizadas
 
-## 💻 Tecnologias Utilizadas:  
-- Power BI  
-- Python  
+- **Power BI**
+- **Python**
 
-Sinta-se à vontade para explorar e entrar em contato se tiver dúvidas ou interesse!  
+## 📩 Contato
 
+Se tiver dúvidas ou interesse, sinta-se à vontade para explorar ou entrar em contato!
+
+---
+Explore mais [aqui](https://github.com/Julia-Soares-saz/Projetos_Power_Bi-e-Automatizacao).
